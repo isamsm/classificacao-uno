@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <link rel='stylesheet' type='text/css' href='index.css' media='screen' />
+    <title> Classificação Uno </title>
+</head>
+<body>
+  <h1> Classificação Uno </h1>
+  <div>
+    <input id='newName' placeholder='Nome do jogador'></input>
+    <button onclick='newPlayer()'> Adicionar </button>
+  </div>
+  <table style='width:100%'>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Vitórias</th>
+        <th>Empates</th>
+        <th>Derrotas</th>
+        <th>Pontos</th>
+        <th colspan='3'>Ações</th>
+      </tr>
+    </thead>
+    <tbody id='tabelaJogadores'>
+    </tbody>
+  </table>
+  <div>
+    <button onclick='resetPlayers()'> Resetar </button>
+  </div>
+</body>
+<script src='index.js'></script>
+</html>
