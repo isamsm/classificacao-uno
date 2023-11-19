@@ -5,7 +5,7 @@
 body {
     font-family: "Roboto Mono", monospace;
     min-height: 400px;
-    background-image: url('https://wallpapers.com/images/hd/flying-uno-cards-5hbpozpm7q0cgqc0.jpg');
+    background-image: url('https://wallpapers.com/images/featured/valorant-305kescxw5dpup7y.jpg');
     background-color: #111;
     background-size: cover;
     background-repeat: no-repeat;
@@ -55,8 +55,13 @@ td {
 }
 
 button {
-    background-color: #002351;
-    color: #f6f6f6;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border-color: transparent;
+    padding: 2px;
+    width: 80px;
+    cursor: pointer;
 }
 
 div {
