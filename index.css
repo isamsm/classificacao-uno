@@ -64,6 +64,12 @@ button {
     cursor: pointer;
 }
 
+input {
+    border-radius: 10px;
+    border-color: transparent;
+    padding: 2px;
+}
+
 div {
     padding: 10px;
 }
