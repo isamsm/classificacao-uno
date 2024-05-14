@@ -2,7 +2,7 @@
 
 ## Sobre
 
-### Minha versão do quinto e último projeto da quinta aula da Imersão Dev da Alura se tratando de uma classificação de placar no valorant na qual você pode adicionar jogadores assim como suas vitórias, empates e derrotas. A adição de um novo jogador, a lógica de não poder ter mais vitórias do que derrotas, a opção de zerar os pontos, de resetar os jogadores e a questão dos empates foi feita por mim, se tratando dos desafios passados pelos instrutores. 
+### Minha versão do quinto e último projeto da quinta aula da Imersão Dev da Alura utlizando HTML, CSS e Javascript e se tratando de uma classificação de placar no Valorant na qual você pode adicionar jogadores assim como suas vitórias, empates e derrotas. A adição de um novo jogador, a lógica de não poder ter mais vitórias do que derrotas, a opção de zerar os pontos, de resetar os jogadores e a questão dos empates foi feita por mim, se tratando dos desafios passados pelos instrutores. 
 
 ## Como usar
 
